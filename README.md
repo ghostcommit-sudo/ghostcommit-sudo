@@ -1,3 +1,4 @@
 ## Hi there 👋
 
-Hi salam kenal saya `ghostcommit`, jika anda anda kendala dalam mengerjakan tugas bisa email kita [disini](mailto:tangankanan4u@gmail.com)
+Salam kenal, saya `ghostcommit`.  
+Jika Anda mengalami kendala dalam mengerjakan tugas, silakan hubungi kami melalui email: [tangankanan4u@gmail.com](mailto:tangankanan4u@gmail.com)
